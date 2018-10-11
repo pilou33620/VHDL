@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Thu Oct 11 14:24:38 2018
+# Process ID: 11024
+# Log file: D:/Documents/ECOLE/VHDL/PROJET/multiplexeur/vivado.log
+# Journal file: D:/Documents/ECOLE/VHDL/PROJET/multiplexeur\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:\Documents\ECOLE\VHDL\PROJET\multiplexeur\multiplexeur.xpr}
+Scanning sources...
+Finished scanning sources
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct 11 14:25:23 2018...
